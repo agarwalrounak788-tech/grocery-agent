@@ -1,0 +1,11 @@
+item,price,category
+rice,60,essential
+oil,150,essential
+milk,50,essential
+eggs,70,essential
+bread,40,essential
+chocolate,100,junk
+cold drink,90,junk
+biscuits,30,junk
+vegetables,80,essential
+fruits,120,essential
