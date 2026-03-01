@@ -1,0 +1,13 @@
+item,company,price,category
+rice,India Gate,60,essential
+rice,Fortune,55,essential
+oil,Fortune,120,essential
+oil,Saffola,140,essential
+milk,Amul,50,essential
+milk,Mother Dairy,48,essential
+eggs,Local Farm,70,essential
+bread,Britannia,40,essential
+chocolate,Dairy Milk,50,junk
+chocolate,Nestle,45,junk
+cold drink,Coca Cola,90,junk
+cold drink,Pepsi,85,junk
